@@ -4,7 +4,7 @@
  console.log(`Fascinado por tecnologia`);
 ```
 
-**Passion for developing.**
+**Passion for developing.❤**
 <!--
 **LcsCefali/LcsCefali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
