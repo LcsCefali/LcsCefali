@@ -13,6 +13,8 @@ Projects I'm currently working on:
 - Universidade Corporativa JLJ (PHP and React Native)
 
 **Passion for developing. ❤**
+
+<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucas-cefali-71335a156%2F"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social"></a>
 <!--
 **LcsCefali/LcsCefali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
