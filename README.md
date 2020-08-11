@@ -15,6 +15,8 @@ Projects I'm currently working on:
 **Passion for developing. ❤**
 
 ![GitHub watchers](https://img.shields.io/github/watchers/LcsCefali/socket.io-chat-example?style=social)
+
+![GitHub watchers](https://img.shields.io/github/watchers/LcsCefali/socket.io-chat-example?style=social&url=https://github.com/LcsCefali)
 <!--
 **LcsCefali/LcsCefali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
