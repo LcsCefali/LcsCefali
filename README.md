@@ -2,7 +2,7 @@
 
 ### About Me
 ```js
- console.log(`Fascinado por tecnologia`);
+ console.log(`> Fascinado por tecnologia!`);
 ```
 
 Currently working with PHP and React Native at Nutriplus.
