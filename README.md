@@ -12,7 +12,7 @@ Projects I'm currently working on:
 - Painel DRE (PHP and JavaScript)
 - Universidade Corporativa JLJ (PHP and React Native)
 
-**❤ Passion for developing.**
+**Passion for developing. ❤ **
 <!--
 **LcsCefali/LcsCefali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
