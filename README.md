@@ -14,7 +14,7 @@ Projects I'm currently working on:
 
 **Passion for developing. ❤**
 
-![Twitter Follow](https://img.shields.io/twitter/follow/LucasCefali?color=078ee0&label=%40LucasCefali&logo=twitter&style=flat-square&labelColor=1ca0f1&logoColor=white)
+![Twitter Follow](https://img.shields.io/twitter/follow/LucasCefali?color=078ee0&label=%40LucasCefali&logo=twitter&style=flat-square&labelColor=1ca0f1&logoColor=white&link=https://twitter.com/LucasCefali)
 <!--
 **LcsCefali/LcsCefali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
