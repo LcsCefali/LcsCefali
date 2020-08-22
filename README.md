@@ -1,5 +1,7 @@
 ## Welcome to my GitHub Page! 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LcsCefali)](https://github.com/anuraghazra/github-readme-stats)
+
 ### About Me
 ```js
  console.log(`> Fascinado por tecnologia!`);
