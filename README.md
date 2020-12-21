@@ -7,13 +7,6 @@
  console.log(`> Fascinado por tecnologia!`);
 ```
 
-Currently working with PHP and React Native at Nutriplus.
-
-Projects I'm currently working on:
-
-- Painel DRE (PHP and JavaScript)
-- Universidade Corporativa JLJ (PHP and React Native)
-
 **Passion for developing. ❤**
 
 <!--
