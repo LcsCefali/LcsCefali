@@ -3,6 +3,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LcsCefali)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About Me
+
+Currentily working on mobile development using React Native and NestJS.
+
 ```js
  console.log(`> Fascinado por tecnologia!`);
 ```
