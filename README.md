@@ -4,7 +4,7 @@
 
 ### About Me
 
-Currently working with app development using React Native and NestJS at Eduzz
+Currently working with app development using React Native and NestJS at Eduzz :yellow_heart:
 
 ```js
  console.log(`> Fascinado por tecnologia!`);
