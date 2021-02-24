@@ -4,7 +4,7 @@
 
 ### About Me
 
-Currentily working on mobile development using React Native and NestJS.
+Currently working with app development using React Native and NestJS at Eduzz
 
 ```js
  console.log(`> Fascinado por tecnologia!`);
