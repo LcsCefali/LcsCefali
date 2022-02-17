@@ -1,11 +1,5 @@
 ## Welcome to my GitHub Page! 👋
 
-<div align="center">
-  <a href="https://github.com/LcsCefali">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LcsCefali&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LcsCefali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ### About Me
 
 Currently working with app development using React Native and NestJS at Eduzz :yellow_heart:
@@ -15,6 +9,12 @@ Currently working with app development using React Native and NestJS at Eduzz :y
 ```
 
 **Passion for developing. ❤**
+
+<div align="center">
+  <a href="https://github.com/LcsCefali">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LcsCefali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LcsCefali&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="cefali-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
