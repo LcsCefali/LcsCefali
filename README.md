@@ -23,7 +23,7 @@ Currently working with app development using React Native and NestJS at Eduzz :y
 </a>
 
 <div style="display: inline_block" align="center"><br>
- **Passion for developing. ❤**
+ <b>Passion for developing. ❤</b>
 </div>
  
 <!--
