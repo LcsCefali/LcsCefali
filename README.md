@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page! 👋
 
-# About Me
+#### About Me
 
 Currently working with app development using React Native and NestJS at Eduzz :yellow_heart:
 
@@ -10,8 +10,9 @@ Currently working with app development using React Native and NestJS at Eduzz :y
 
 <div align="center">
   <a href="https://github.com/LcsCefali">
-  <img src="https://github-readme-stats.vercel.app/api?username=LcsCefali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LcsCefali&layout=compact&langs_count=7&theme=dracula"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=LcsCefali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LcsCefali&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
