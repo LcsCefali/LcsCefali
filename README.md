@@ -9,7 +9,7 @@ Currently working with app development using React Native and NestJS at Eduzz :y
 ```
 <a style="text-decoration: none;" href="https://github.com/LcsCefali" align="center">
  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LcsCefali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LcsCefali&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LcsCefali&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
