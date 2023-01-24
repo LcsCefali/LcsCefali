@@ -5,7 +5,7 @@
 Currently working with app development using React Native and NestJS at Eduzz :yellow_heart:
 
 ```js
- console.log(`> Fascinado por tecnologia!`);
+ console.log('> Fascinado por tecnologia!');
 ```
 <a style="text-decoration: none;" href="https://github.com/LcsCefali" align="center">
  <div align="center">
