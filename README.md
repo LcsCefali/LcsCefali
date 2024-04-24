@@ -41,7 +41,7 @@ public async getUserBio(user: IUser): Promise<Bio> {
  <img
   height="200"
   align="center"
-  src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=dracula&layout=pie"
+  src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=dracula&card_width=320&layout=compact"
  />
 </a>
 
