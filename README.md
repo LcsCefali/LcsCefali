@@ -31,23 +31,30 @@ public async getUserBio(user: IUser): Promise<Bio> {
  <a style="text-decoration: none;" href="https://github.com/LcsCefali" align="center">
   <!-- Imagem para o modo escuro -->
   <img 
-    height="200" 
-    align="center" 
-    src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=dracula#gh-dark-mode-only"
+    height="200"
+    class="gh-dark-mode-only"
+    src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=dark"
   />
 
   <!-- Imagem para o modo claro -->
   <img 
     height="200" 
-    align="center" 
-    src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only"
+    class="gh-light-mode-only"
+    src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=light"
   />
 
-  <!-- Imagem de linguagens mais usadas -->
+  <!-- Imagem de linguagens mais usadas modo escuro -->
   <img 
     height="200" 
-    align="center" 
-    src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=transparent&layout=pie"
+    class="gh-dark-mode-only"
+    src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=dark&layout=pie"
+  />
+
+  <!-- Imagem de linguagens mais usadas modo claro -->
+  <img 
+    height="200" 
+    class="gh-light-mode-only"
+    src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=light&layout=pie"
   />
  </a>
 </div>
