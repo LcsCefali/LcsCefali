@@ -27,23 +27,12 @@ public async getUserBio(user: IUser): Promise<Bio> {
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: light)"
-  />
-</picture>
-
-
 <a style="text-decoration: none;" href="https://github.com/LcsCefali" align="center">
-  <img height=200 align="center" src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=transparent"/>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=dracula">
+   <img height=200 align="center" alt="Github Stats" src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage">
+ </picture>
+
   <img height=200 align="center" src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=transparent&layout=pie"/>
 </a>
 
