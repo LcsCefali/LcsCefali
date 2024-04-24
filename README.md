@@ -28,18 +28,22 @@ public async getUserBio(user: IUser): Promise<Bio> {
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 <!-- Imagem para o modo escuro -->
-<img 
- height="200"
- align="center"
- src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=dracula"
-/>
+<a href="https://github.com/LcsCefali">
+ <img 
+  height="200"
+  align="center"
+  src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=dracula"
+ />
+</a>
 
 <!-- Imagem de linguagens mais usadas modo escuro -->
-<img
- height="200"
- align="center"
- src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=dracula&layout=pie"
-/>
+<a href="https://github.com/LcsCefali">
+ <img
+  height="200"
+  align="center"
+  src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=dracula&layout=pie"
+ />
+</a>
 
 <div style="display: inline_block" align="center"><br>
  <b>Applications make everyday life easier, offering simple solutions for complex tasks ❤</b>
