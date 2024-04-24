@@ -27,12 +27,30 @@ public async getUserBio(user: IUser): Promise<Bio> {
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<a style="text-decoration: none;" href="https://github.com/LcsCefali" align="center">
-<img height=200 align="center" src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=dracula#gh-dark-mode-only"/>
-<img height=200 align="center" src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage#gh-light-mode-only"/>
+<div align="center">
+ <a style="text-decoration: none;" href="https://github.com/LcsCefali" align="center">
+  <!-- Imagem para o modo escuro -->
+  <img 
+    height="200" 
+    align="center" 
+    src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=dracula#gh-dark-mode-only"
+  />
 
- <img height=200 align="center" src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=transparent&layout=pie"/>
-</a>
+  <!-- Imagem para o modo claro -->
+  <img 
+    height="200" 
+    align="center" 
+    src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=transparent#gh-light-mode-only"
+  />
+
+  <!-- Imagem de linguagens mais usadas -->
+  <img 
+    height="200" 
+    align="center" 
+    src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=transparent&layout=pie"
+  />
+ </a>
+</div>
 
 <div style="display: inline_block" align="center"><br>
  <b>Applications make everyday life easier, offering simple solutions for complex tasks ❤</b>
