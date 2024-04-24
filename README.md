@@ -28,12 +28,10 @@ public async getUserBio(user: IUser): Promise<Bio> {
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 <a style="text-decoration: none;" href="https://github.com/LcsCefali" align="center">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=dracula">
-   <img height=200 align="center" alt="Github Stats" src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage">
- </picture>
+<img height=200 align="center" src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage&theme=dracula#gh-dark-mode-only"/>
+<img height=200 align="center" src="https://github-readme-stats-eight-delta-16.vercel.app/api?username=LcsCefali&show_icons=true&include_all_commits=true&count_private=true&hide=stars&show=reviews,prs_merged,prs_merged_percentage#gh-light-mode-only"/>
 
-  <img height=200 align="center" src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=transparent&layout=pie"/>
+ <img height=200 align="center" src="https://github-readme-stats-eight-delta-16.vercel.app/api/top-langs/?username=LcsCefali&theme=transparent&layout=pie"/>
 </a>
 
 <div style="display: inline_block" align="center"><br>
